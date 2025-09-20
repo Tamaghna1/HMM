@@ -1,0 +1,21 @@
+# C++ build artifacts
+*.o
+*.exe
+parcel_test
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
